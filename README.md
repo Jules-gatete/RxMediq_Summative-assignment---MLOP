@@ -23,8 +23,13 @@ This project fulfills the requirements of a scalable ML pipeline for drug prescr
 - **YouTube Link**: [Watch the Demo](https://youtu.be/wYvvXlIVjOU) 
 
 ## Public URLs
-- **API (Render)**: `[https://rxmediq-model-api.onrender.com`](https://rxmediq-model-api.onrender.com)
+- **API (Render)**: [https://rxmediq-model-api.onrender.com`](https://rxmediq-model-api.onrender.com)
 - **Frontend (Vercel)**: https://rx-mediq-front-end.vercel.app/
+
+-#### **Dataset**
+- **Dataset:** [Drugs Prediction Dataset](https://www.kaggle.com/code/dharshanadhanendran/drugs-prediction-dataset/input)
+- **Features:** Disease, Age, Gender, Severity
+- **Target Variable:** Drug Prescribed
 
 ## Setup Instructions
 ### Prerequisites
